@@ -1,0 +1,5 @@
+Electron Documentation: 
+  - https://www.electronjs.org/docs
+
+Electron Book: 
+  - https://livebook.manning.com/book/electron-in-action/part-2/8
